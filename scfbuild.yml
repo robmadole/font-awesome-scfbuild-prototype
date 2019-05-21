@@ -1,0 +1,26 @@
+# SCFBuild configuration file for Twitter Color Emoji
+output_file: /build/FontAwesome.ttf
+verbose: True
+glyph_svg_dir: svgs/solid
+color_svg_dir: svgs/duotone
+table_name:
+  copyright: >
+    Copyright 2019 Font Awesome
+  family: Font Awesome Duotone
+  # Subfamily is also called Style or Weight. Often set to: Regular
+  subfamily: Regular
+  unique_id: Font Awesome Duotone
+  full_name: Font Awesome Duotone
+  #version:
+  # No spaces in PostScript Names
+  postscript_name: FontAwesomeDuotone
+  #trademark:
+  manufacturer: fa
+  designer: Font Awesome, Inc.
+  description: >
+    A SVGinOT color emoji font using the Twitter Emoji for Everyone set:
+    https://github.com/FortAwesome/Font-Awesome
+  url_vendor: https://github.com/FortAwesome/Font-Awesome
+  url_designer: https://github.com/FortAwesome/Font-Awesome
+  license: UNLICENSED
+  url_license: http://fontawesome.com/license
